@@ -1,0 +1,23 @@
+{
+  "name": "business-case",
+  "version": "0.1.0",
+  "description": "Interrogates you about a workflow automation or piece of software before you build it, does the arithmetic out loud, and ends in a build / buy / thin-slice / don't-build verdict you can defend to someone holding a budget.",
+  "author": {
+    "name": "Levison",
+    "url": "https://github.com/Levison"
+  },
+  "homepage": "https://github.com/Levison/business-case-skill",
+  "repository": "https://github.com/Levison/business-case-skill",
+  "license": "MIT",
+  "keywords": [
+    "business-case",
+    "automation",
+    "roi",
+    "planning",
+    "prioritization",
+    "grilling"
+  ],
+  "skills": [
+    "./skills/business-case"
+  ]
+}

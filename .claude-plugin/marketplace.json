@@ -1,0 +1,23 @@
+{
+  "name": "levison",
+  "owner": {
+    "name": "Levison",
+    "url": "https://github.com/Levison"
+  },
+  "description": "The business-case skill, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "business-case",
+      "source": "./",
+      "description": "Establishes whether a workflow automation or piece of software deserves to exist before you build it: frequency, person-hours, exception rate, review floor, upkeep and rot, against build cost and the price of whatever already exists.",
+      "category": "productivity",
+      "keywords": [
+        "business-case",
+        "automation",
+        "roi",
+        "planning",
+        "prioritization"
+      ]
+    }
+  ]
+}
