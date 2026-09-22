@@ -1,0 +1,10 @@
+business-case
+Copyright (c) 2026 Levison
+
+This product includes work adapted from the `grilling` skill in
+https://github.com/mattpocock/skills, which is MIT licensed,
+Copyright (c) 2026 Matt Pocock.
+
+Specifically: the round-and-frontier interview mechanic, the numbered
+question format with a recommended answer attached, and the division of
+labour in which the agent finds facts and the user makes judgments.
